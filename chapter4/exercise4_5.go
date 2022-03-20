@@ -22,7 +22,7 @@ func remove(s []int) []int {
 	return s
 }
 
-func main() {
+func main5() {
 	a := []int{1,1,2,2,3,4,5}
 
 	fmt.Println(remove(a))
